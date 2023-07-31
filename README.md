@@ -1,4 +1,5 @@
-                                      Project Description
+                                      Bot-Bottlr
+# Project Description
 Bot-battlr is a web application built with React that allows users to recruit and enlist bots for their battles
 
 Project Structure
