@@ -1,35 +1,34 @@
                                       Bot-Bottlr
-# Project Description
+#  Project Description
 Bot-battlr is a web application built with React that allows users to recruit and enlist bots for their battles
 
-Project Structure
+## Project Structure
 The project structure is organized as follows:
 
-#BOT-BATTLR
+1. src/: This directory contains all the React components used in the application.
 
-src/: This directory contains all the React components used in the application.
+2. App.js: The main component that renders the Bot-Battlr
 
-App.js: The main component that renders the Bot-Battlr
+3. YourBotArmy:Component that allows users to recruit and enlist bots
 
-YourBotArmy:Component that allows users to recruit and enlist bots
+4. FilterBar.js: Component that allows users to filter the bots
 
-FilterBar.js: Component that allows users to filter the bots
+5. SortBar.js: Component that allows users to sort the bots
 
-SortBar.js: Component that allows users to sort the bots
-
-BotCollection.js: Component that renders the collection of bots
+6. BotCollection.js: Component that renders the collection of bots
 
 
-Dependencies
+## Dependencies
 The Bot-battlr project uses the following dependencies:
 
-react: JavaScript library for building user interfaces.
+1. react: JavaScript library for building user interfaces.
 
-NPM : Node packet manager used for executing Javascript code outside a browser.
+2. NPM : Node packet manager used for executing Javascript code outside a browser.
 
 
 
-License
+## License
+
 Author: Lawi Mwaura
 
 Copyright (c) [2023] [Lawi Mwaura]
