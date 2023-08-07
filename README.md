@@ -9,13 +9,9 @@ The project structure is organized as follows:
 
 2. App.js: The main component that renders the Bot-Battlr
 
-3. YourBotArmy:Component that allows users to recruit and enlist bots
+3. YourBotArmy: Component that allows users to recruit and enlist bots
 
-4. FilterBar.js: Component that allows users to filter the bots
-
-5. SortBar.js: Component that allows users to sort the bots
-
-6. BotCollection.js: Component that renders the collection of bots
+4. BotCollection.js: Component that renders the collection of bots
 
 
 ## Dependencies
