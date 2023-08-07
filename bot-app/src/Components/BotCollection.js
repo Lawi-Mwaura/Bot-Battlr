@@ -4,7 +4,7 @@ const BotCollection = ({ bots, enlistBot }) => {
   return (
     <div>
       <h2>Bot Collection</h2>
-      <div>
+      <div className="BotCollection">
         {bots.map(bot => (
           <div key={bot.id} onClick={() => enlistBot(bot)}>
             <h3>{bot.name}</h3>

@@ -4,7 +4,7 @@ const YourBotArmy = ({ bots, releaseBot, dischargeBot }) => {
   return (
     <div>
       <h2>Your Bot Army</h2>
-      <div>
+      <div className="YourBotArmy">
         {bots.map(bot => (
           <div key={bot.id}>
             <h3>{bot.name}</h3>
